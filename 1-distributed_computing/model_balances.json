@@ -1,0 +1,18 @@
+{
+    "model_1": {
+      "balance": 1000.0,
+      "performance": 0.95, 
+      "incorrect_predictions": 0
+    },
+    "model_2": {
+      "balance": 1000.0,
+      "performance": 0.85,
+      "incorrect_predictions": 0
+    },
+    "model_3": {
+      "balance": 1000.0,
+      "performance": 0.90,
+      "incorrect_predictions": 0
+    }
+  }
+  
